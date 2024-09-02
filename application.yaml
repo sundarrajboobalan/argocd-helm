@@ -7,7 +7,7 @@ spec:
   project: default
 
   source:
-    repoURL: https://github.com/sundarrajboobalan/argocddemo2.git
+    repoURL: https://github.com/sundarrajboobalan/argocd-helm.git
     targetRevision: HEAD
     path: helmdemo
   destination: 
