@@ -7,9 +7,9 @@ spec:
   project: default
 
   source:
-    repoURL: https://github.com/sundarrajboobalan/argocd_demo1.git
+    repoURL: https://github.com/sundarrajboobalan/argocddemo2.git
     targetRevision: HEAD
-    path: dev
+    path: helmdemo
   destination: 
     server: https://kubernetes.default.svc
     namespace: myapp
